@@ -1,1 +1,1 @@
---platform=linux/arm64 mysql:8
+--platform=linux/arm64 jonnyan404/mrdoc-nginx
