@@ -1,4 +1,3 @@
 --platform=linux/arm64 zmister/mrdoc:v8
 
-maiome/nginx-tcproxy
 nginx
