@@ -3,3 +3,5 @@
 nginx
 
 kasmweb/redroid:develop
+
+kasmweb/redroid:1.14.0
