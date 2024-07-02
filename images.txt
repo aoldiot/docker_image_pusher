@@ -1,3 +1,4 @@
 --platform=linux/arm64 zmister/mrdoc:v8
 
 nginx
+kasmweb/redroid:develop
