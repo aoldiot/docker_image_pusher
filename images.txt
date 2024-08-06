@@ -7,3 +7,5 @@ kasmweb/redroid:develop
 kasmweb/redroid:1.14.0
 
 --platform=linux/arm64 redroid/redroid:11.0.0-latest
+
+bitnami/minio:latest
