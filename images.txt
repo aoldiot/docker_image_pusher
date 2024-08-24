@@ -1,1 +1,1 @@
-homeassistant/home-assistant:dev@sha256:e029bff145378f98e81f43e3ead236bf90d52207e9b43fd771d3fa580395b5d4
+homeassistant/home-assistant:dev@sha256:3f3cdbf011ac7a6f1e2bf1801a54f756e1e68e533c98bb886da5bb057fefb885
