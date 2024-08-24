@@ -1,2 +1,1 @@
-eclipse-mosquitto
-home-assistant --platform=linux/arm64
+homeassistant/home-assistant:dev@sha256:e029bff145378f98e81f43e3ead236bf90d52207e9b43fd771d3fa580395b5d4
