@@ -1,2 +1,2 @@
 eclipse-mosquitto
-homeassistant/home-assistant:latest --platform=linux/arm64
+home-assistant --platform=linux/arm64
