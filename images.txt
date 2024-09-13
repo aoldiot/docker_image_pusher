@@ -1,1 +1,1 @@
-homeassistant/home-assistant:dev@sha256:3f3cdbf011ac7a6f1e2bf1801a54f756e1e68e533c98bb886da5bb057fefb885
+nacos/nacos-server:v1.4.5-slim   --platform=linux/arm64
