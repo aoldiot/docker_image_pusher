@@ -1,1 +1,1 @@
-nacos/nacos-server:v1.4.5-slim   --platform=linux/arm64
+whyour/qinglong@sha256:451b87eae19e6eeb233587083012c48dbafef4ccf8ce2fd87237547690e94a4a
