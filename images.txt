@@ -3,3 +3,4 @@ alpine:edge
 xiaoyaliu/alist:latest
 ghcr.io/dgtlmoon/changedetection.io
 dgtlmoon/sockpuppetbrowser:latest
+openjdk:11
